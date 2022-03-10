@@ -1,0 +1,55 @@
+* {
+    border: 0;
+    margin: 0;
+}
+
+header {
+    background-color: red;
+    width: 100%;
+    clear: both;
+    display: table;
+}
+
+H1 {
+    font-size: 30px;
+}
+
+.menu {
+    width: 1400px;
+    margin: 0 auto;
+}
+
+nav {
+    float: right;
+}
+
+.titulo {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.imgj {
+    width: 600px;
+    height: 450px;
+}
+
+nav ul li {
+    list-style: none;
+    margin-left: 75px;
+    padding: 25px 0;
+    float: left;
+}
+
+.caja2 {
+    text-align: justify;
+}
+
+.caja2 .sub {
+    text-align: center;
+}
+
+footer {
+    position: relative;
+    text-align: center;
+    background-color: red;
+    padding: 40px;
+}
