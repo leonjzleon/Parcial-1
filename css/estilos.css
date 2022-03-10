@@ -11,7 +11,7 @@ header {
 }
 
 H1 {
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .menu {
@@ -37,6 +37,10 @@ nav ul li {
     margin-left: 75px;
     padding: 25px 0;
     float: left;
+}
+
+p {
+    text-align: justify;
 }
 
 .caja2 {
